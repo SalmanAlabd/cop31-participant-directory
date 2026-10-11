@@ -1,8 +1,8 @@
 # COP31 nominee statistics and directory
 
-Static Arabic/English-name directory built from the supplied allocation and individual Excel files.
+Static Arabic/English-name directory built from the supplied allocation and individual Excel files, after user-approved directory exclusions.
 
-49 unique people; 26 organization nomination groups; 8 academic/individual-file participants. Counts describe source-file nominees, not confirmed registrations or attendance.
+47 unique people; 26 organization nomination groups; 6 academic/individual-file participants. Counts do not establish confirmed registration or attendance.
 
 Only names, organizations, category labels and aggregate counts are published. No identity or contact fields, original workbooks, internal evidence, or registration identifiers are included.
 
